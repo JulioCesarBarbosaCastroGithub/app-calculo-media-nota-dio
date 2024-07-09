@@ -1,0 +1,1 @@
+Exercício calcula a média de três notas de um aluno no semestre da faculdade e retorna a informação se o mesmo está aprovado, reprovado ou de recuperação de acordo com a média das notas.
