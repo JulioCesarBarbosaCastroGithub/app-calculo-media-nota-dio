@@ -6,7 +6,7 @@ let alunoMediaNotas = (alunoNotaUsabilidade + alunoNotaEngenhariaDeSoftware + al
 
 console.log("Olá, a sua média é: " + alunoMediaNotas.toFixed(2));
 
-if(alunoMediaNotas > 0 && alunoMediaNotas < 5){
+if(alunoMediaNotas < 5){
     console.log("Você está reprovado, estude e tente novamente.");
 }else if(alunoMediaNotas > 4 && alunoMediaNotas < 8){
     console.log("Você está de recuperação, estude e tente novamente.");
